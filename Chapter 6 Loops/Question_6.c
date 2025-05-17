@@ -1,6 +1,7 @@
 /* The program prompts the user to enter a number n */
 /* Then, prints all even squares between 1 and n */
-#include<stdio.h>
+
+#include <stdio.h>
 int main(void) {
     int n;
     printf("Enter a number: ");

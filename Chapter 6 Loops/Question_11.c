@@ -1,6 +1,7 @@
-#include<stdio.h>
 /* The program approximates the value of mathematical constant e */
 /* By computing 1 + 1/1! + 1/2! + 1/3! + … + 1/n! where n is entered by the user */
+
+#include<stdio.h>
 
 // Function declaration
 float factorial(int x);

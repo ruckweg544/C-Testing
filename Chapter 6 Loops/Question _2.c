@@ -1,4 +1,4 @@
-// A program asks the user to enter two integers, then calculates and display greatest common divisor (GCD)
+// The program asks the user to enter two integers, then calculates and display greatest common divisor (GCD)
 
 #include <stdio.h>
 

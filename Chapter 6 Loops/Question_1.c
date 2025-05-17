@@ -1,3 +1,7 @@
+// The program finds the largest in a series of numbers entered by the user. 
+// The program prompts the user to enter numbers one by one. 
+// When the user enters 0 or a negative number, the program must display the largest non-negative number entered
+
 #include <stdio.h>
 
 int main(void) {

@@ -1,5 +1,5 @@
 # C-Testing
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&repo=ruckweg544/C-Testing&ref=main)
+[![GitHub Codespaces didactic-giggle](https://github.com/codespaces/badge.svg)](https://didactic-giggle-97975g4q7wqw3pwqw.github.dev/)
 
 This repository consists of testings of C fundamentals.
 Programming questions are based on C Programming: A Modern Approach by K. N. King

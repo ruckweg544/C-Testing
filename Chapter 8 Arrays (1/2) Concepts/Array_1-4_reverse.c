@@ -1,4 +1,4 @@
-// Reversing a series of numbers
+// Reverse.c example: Reversing a series of numbers
 // The program would ask the user to enter 10 numbers
 // The program would output 10 numbers in a reversing order
 

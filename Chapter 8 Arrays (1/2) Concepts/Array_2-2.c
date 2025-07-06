@@ -13,7 +13,7 @@
 int main(void) {
     bool in_hand[NUM_SUITS][NUM_RANKS] = {false};
     int num_cards, rank, suit;
-    const char rank_code[] = {'2', '3', '4', '5', '6', '7', '8', '9', 'a', 'j', 'q', 'k'};
+    const char rank_code[] = {'2', '3', '4', '5', '6', '7', '8', '9', 't', 'a', 'j', 'q', 'k'};
     const char suit_code[] = {'c', 'd', 'h', 's'};
     
     srand((unsigned) time(NULL));

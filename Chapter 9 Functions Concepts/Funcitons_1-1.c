@@ -1,3 +1,5 @@
+/* Chapter 9.1 Functions Example: Computing Averages p.184*/
+
 #include <stdio.h>
 
 double average1 (double a, double b) {
